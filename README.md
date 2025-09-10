@@ -28,7 +28,7 @@ I specialize in building **AI-powered web apps and chatbots** that empower busin
 - [Trafficwise-AI](https://github.com/Tayyab666-star/Trafficwise-AI) — AI-powered traffic analytics and optimization.
 - [Admissions-Dashboard](https://github.com/Tayyab666-star/Admissions-Dashboard) — Smart dashboards for education analytics.
 - [Awesome-AI-Apps](https://github.com/Tayyab666-star/awesome-ai-apps) — Curated collection of innovative AI apps.
-- [Rama Hacknation](https://github.com/it-dainb/rama-hacknation) — National hackathon-winning project.
+- [Rama Hacknation](https://github.com/it-dainb/rama-hacknation) — MIT hackathon  project.
 
 ---
 
