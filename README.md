@@ -16,7 +16,7 @@ I specialize in building **AI-powered web apps and chatbots** that empower busin
 
 - **AI/ML:** Generative AI | LLMs | LoRA & QLoRA | RAG
 - **Prompt Engineering:** Expert-level
-- **Web Development:** AI-powered web apps | Chatbots | JavaScript
+- **Web Development:** AI-powered web apps | Chatbots | Python
 - **Automation:** n8n | GitHub Actions | make.com
 - **AI Infrastructure:** Robust deployment & monitoring
 
